@@ -1,8 +1,14 @@
 {
-	"author": "Mike Del",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mike Del",
+	"description": "Glitch sucks.  Heroku is better",
+	"keywords": ["freecodecamp", "glitchsucks", "githubbetter"],
+	"license": "MIT",
+	"version": "1.0",
+
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0",
 	},
 	"main": "server.js",
 	"scripts": {
